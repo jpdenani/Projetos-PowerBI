@@ -26,6 +26,8 @@ Power BI Desktop
 
 Microsoft Excel
 
+Banco de Dados - SQL
+
 Power Query
 
 DAX (Data Analysis Expressions)
